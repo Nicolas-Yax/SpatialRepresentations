@@ -1,5 +1,7 @@
 # SpatialRepresentations
 
+Project based on https://www.sciencedirect.com/science/article/pii/S0896627320304682.
+
 To install dependencies : 
 ```bash
 conda env update -f environment.yml
